@@ -8,7 +8,7 @@
 <refresh_type>Auto</refresh_type>
 <refresh_time>86400</refresh_time>
 <mastertype>Live</mastertype>
-<category_view>1-TierView</category_view>
+<category_view>2-TierView</category_view>
 <base_url>https://dl.dropboxusercontent.com/s/hbc0ctq4s7b5qjo/LiveTier1.txt?dl=0</base_url>
 </channel>
 </xml>
